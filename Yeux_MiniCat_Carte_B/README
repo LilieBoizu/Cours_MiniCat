@@ -1,0 +1,15 @@
+Add eyes to MiniCat
+Using OLEDs screens 128x64
+
+Need U8G2 library by olikraus 
+>>> https://github.com/olikraus/u8g2 
+
+Base for the eyes is available as stl files 
+(Support_2_yeux.stl and Pied_2_yeux.stl)
+
+WARNING 
+Code to be uploaded on a second board as U8G2 lib is too heavy to fit 
+in the same board as MiniCat
+
+Need to connect 1st board Vin, GND and IR data pins to 2nd board. 
+OLEDs screens are both connected to VCC, GND, SDA (A4) and SCL (A5) of 2nd board. 
