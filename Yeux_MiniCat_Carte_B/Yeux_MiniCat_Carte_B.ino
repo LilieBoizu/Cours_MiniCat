@@ -2,14 +2,12 @@
 
 ======================== ATELIER ROBOTIQUE : CatMini ========================
 ==                           Des yeux pour MiniCat                         ==
-==                     Ajout d'écrans LCD sur notre robot                  ==
+==                     Ajout d'écrans OLED sur notre robot                 ==
 =============================================================================
 
 Copyright (c) 2020 QI Informatique.
 
 
-
-Ajout de yeux pour MiniCat, avant de l'intégrer dans le code général.  
 
 Ce code permet d'afficher différents yeux sur les écrans, pour donner des 
 "émotions" au robot chat !  
